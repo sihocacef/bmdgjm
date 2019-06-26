@@ -1,0 +1,25 @@
+{
+    "name": "bts-world-hack/hack-bts-world",
+    "description": " BTS World Hack ((HOW TO GET)) Unlimited BTS World Gems 2019 Insane how you can get Get Unlimited Resources on your game account with our BTS World Mod Apk. [Cheats Glitch] BTS World Hack Unlimited Gems [Real Method so far] Unlimited Resources on your game account with our BTS World Mod Apk.",
+    "homepage": "https://github.com/fcjc",
+	"keywords": ["BTS World Hack","BTS World Hack","BTS World Hack IOS","BTS World Hack 2019"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Get Unlimited BTS World Gems Now",
+            "homepage": "http://mobapps.bid/bts-world-hack/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
